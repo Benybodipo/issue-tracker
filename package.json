@@ -1,6 +1,6 @@
 {
   "name": "issue-tracker",
-  "homepage": "http://benybodipo.github.io/issue-tracker",
+  "homepage": "https://benybodipo.github.io/issue-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
